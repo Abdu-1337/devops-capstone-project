@@ -18,7 +18,7 @@ spec:
         app: accounts
     spec:
       containers:
-      - image: us.icr.io/sn-labs-u1337lootah/accounts:1
+      - image: cd-pipeline-run-nssfz
         name: accounts
         resources: {}
         env:
